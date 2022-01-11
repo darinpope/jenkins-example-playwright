@@ -1,0 +1,21 @@
+{
+  "name": "jenkins-example-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darinpope/jenkins-example-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darinpope/jenkins-example-playwright/issues"
+  },
+  "homepage": "https://github.com/darinpope/jenkins-example-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.17.2"
+  }
+}
